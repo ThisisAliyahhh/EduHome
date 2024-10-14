@@ -412,7 +412,6 @@ section.offer{
 }
 
 .offers-body h5{
-    /* line-height: 1.3; */
     color: #231f45;
     font-size: 20px;
 }
@@ -669,7 +668,6 @@ section.offer{
 
 section.community{
     width: 100%;
-    /* height: 120vh; */
     background-color: white;
     padding: 100px 0;
 }
